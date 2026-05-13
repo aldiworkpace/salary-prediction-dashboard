@@ -9,7 +9,7 @@ st.write('Dashboard Intractive Job Analytics')
 
 # 2. Load Data
 # (Pastikan nama file CSV-nya sesuai dengan yang ada di folder Anda)
-df = pd.read_csv('job_salary_prediction_dataset.csv')
+df = pd.read_csv('salary_prediction_dashboard/job_salary_prediction_dataset.csv')
 
 # 3. Membuat Filter Interaktif
 st.sidebar.header('Pengaturan Panel')
