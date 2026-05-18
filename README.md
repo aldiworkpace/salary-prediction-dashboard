@@ -2,7 +2,7 @@
 
 # 📊 Global Tech Job Salary Analytics Dashboard
 
-app : [ Job Salary Analytics Dashboard](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salary-prediction-dashboard-dwmkwmxchymwtymdogvch9.streamlit.app/)
+app : [Job Salary Analytics Dashboard](https://salary-prediction-dashboard-dwmkwmxchymwtymdogvch9.streamlit.app/)
 
 ## Tentang Project ini
 Proyek ini adalah *dashboard* interaktif berbasis web yang dibangun untuk menganalisis tren gaji berbagai profesi di bidang teknologi dan data (seperti Data Analyst, Data Engineer, dll) di seluruh dunia. Dashboard ini memungkinkan pengguna untuk memfilter data berdasarkan profesi dan langsung melihat visualisasi wawasan bisnis secara *real-time*.
